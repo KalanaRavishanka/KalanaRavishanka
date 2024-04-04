@@ -46,7 +46,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalanaravishanka&show_icons=true)](https://github.com/kalanaravishanka)
+[![Kalana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalanaravishanka&show_icons=true)](https://github.com/kalanaravishanka)
 
 <br/>
 
